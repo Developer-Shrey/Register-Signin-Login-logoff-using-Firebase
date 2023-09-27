@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "shreyash-tech": {
+      "hosting": {
+        "firebase": [
+          "shreyash-tech"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "shreyash-tech"
+  }
+}
